@@ -41,7 +41,7 @@ This tool is intended for authorized security testing and educational purposes o
 
 1.  Once the dependencies are installed, run the Streamlit application:
     ```sh
-    streamlit run racer.py
+    streamlit run race.py
     ```
 2.  Your web browser will automatically open a new tab with the rac3r interface.
 3.  Paste your raw HTTP request into the text area.
